@@ -1,0 +1,24 @@
+{
+  "name": "hex2name",
+  "version": "3.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mui/material": "^5.10.10",
+    "hex-color-to-color-name": "^1.0.2",
+    "parse-color": "^1.0.0",
+    "tailwindcss": "^3.1.8"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  },
+  "bin": {
+    "hex2name": "index.js"
+  }
+}
